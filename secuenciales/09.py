@@ -7,3 +7,4 @@ if 1000 <= num <= 9999:
     print("La suma de las cifras es:", suma)
 else:
     print("ingresar un número de 4 cifras.")
+
