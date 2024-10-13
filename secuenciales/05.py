@@ -1,5 +1,6 @@
 import os
 os.system ("cls")
+
 gigabytes = int (input("gygabytes = "))
 
 megabytes = gigabytes * 1024

@@ -1,3 +1,6 @@
+import os
+os.system ("cls")   
+
 num = int (input("ingrese la cantidad en metros: "))
 
 metros = 100 

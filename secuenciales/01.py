@@ -1,3 +1,6 @@
+import os
+os.system ("cls")
+
 varones = int (input("varones: "))
 mujeres = int (input("mujeres: "))
 total = varones + mujeres

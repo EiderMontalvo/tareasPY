@@ -1,3 +1,6 @@
+import os
+os.system ("cls")
+
 print ("--calculador de área y perimetro de un rectangulo--")
 base = int(input("ingrese la base: "))
 altura = int (input("ingrese la altura: "))

@@ -1,3 +1,6 @@
+import os
+os.system ("cls")
+
 num = int(input("ingresa un número entero de 4 cifras: "))
 
 if 1000 <= num <= 9999:
